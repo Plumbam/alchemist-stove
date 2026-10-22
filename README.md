@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender"> <img src="https://img.shields.io/badge/Cycles-3D3D3D?style=flat-square" alt="Cycles"> <img src="https://img.shields.io/badge/процедурные_материалы-5A4632?style=flat-square" alt="Процедурные материалы">
 
-<a href="../../releases/latest"><img src="https://img.shields.io/badge/⬇_Скачать_.blend-000000?style=for-the-badge" alt="Скачать .blend"></a>
+<a href="https://github.com/Plumbam/alchemist-stove/releases/latest"><img src="https://img.shields.io/badge/⬇_Скачать_.blend-000000?style=for-the-badge" alt="Скачать .blend"></a>
 
 </div>
 
@@ -44,6 +44,6 @@
 
 ## Файл сцены
 
-Исходный `.blend` весит около 270 МБ, поэтому лежит не в репозитории, а в [релизе](../../releases/latest) zip-архивом (~42 МБ).
+Исходный `.blend` весит около 270 МБ, поэтому лежит не в репозитории, а в [релизе](https://github.com/Plumbam/alchemist-stove/releases/latest) zip-архивом (~42 МБ).
 
 Сохранён в Blender 5.0 (предрелизная сборка 4.5.90), открывается в 5.0 и новее. Текстура грязи (`grunge_14.png`) упакована внутрь файла. Текстура печки (`текстура печки 2.png`) в файл не упакована: без неё Blender покажет печку розовой.
