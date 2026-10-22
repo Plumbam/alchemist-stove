@@ -6,7 +6,7 @@
 
 **Стилизованная сцена в Blender: медная печь, колба с зельем, череп, свечи и свитки на старом верстаке.**
 
-<img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender"> <img src="https://img.shields.io/badge/Cycles-3D3D3D?style=flat-square" alt="Cycles"> <img src="https://img.shields.io/badge/процедурные_материалы-5A4632?style=flat-square" alt="Процедурные материалы">
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender"> <img src="https://img.shields.io/badge/Cycles-3D3D3D?style=flat-square" alt="Cycles"> <img src="https://img.shields.io/badge/Geometry_Nodes-5A4632?style=flat-square" alt="Geometry Nodes">
 
 <a href="https://github.com/Plumbam/alchemist-stove/releases/latest"><img src="https://img.shields.io/badge/⬇_Скачать_.blend-000000?style=for-the-badge" alt="Скачать .blend"></a>
 
